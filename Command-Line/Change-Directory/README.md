@@ -11,3 +11,4 @@ Shortcuts
 * ~ (home directory). This directory defaults to your “home directory”. Such as /home/pete.
 * '-' (previous directory). This will take you to the previous directory you were just at.
 
+### Running the "cd" command without any flags in the terminal takes you to the home directory of the current user.
