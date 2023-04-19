@@ -9,5 +9,5 @@ Shortcuts
 * . (current directory). This is the directory you are currently in.
 * .. (parent directory). Takes you to the directory above your current.
 * ~ (home directory). This directory defaults to your “home directory”. Such as /home/pete.
-* - (previous directory). This will take you to the previous directory you were just at.
+* '-' (previous directory). This will take you to the previous directory you were just at.
 
